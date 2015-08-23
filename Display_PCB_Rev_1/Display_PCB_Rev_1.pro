@@ -1,27 +1,25 @@
 EAGLE AutoRouter Statistics:
 
-Job           : C:/Users/gmcrist/Google Drive/Senior Design/Display PCB/Display_PCB_Rev_1/Display_PCB_Rev_1.brd
+Job           : /home/gmcrist/Projects/Senior_Design/display_pcb/Display_PCB_Rev_1/Display_PCB_Rev_1.brd
 
-Start at      : 22:42:26 (8/1/2015)
-End at        : 22:44:07 (8/1/2015)
+Start at      : 11:01:02 (8/23/15)
+End at        : 11:01:38 (8/23/15)
 Elapsed time  : 
 
-Signals       :     1   RoutingGrid: 9 mil  Layers: 2
-Connections   :    33   predefined:  0 ( 0 Vias )
+Signals       :    15   RoutingGrid: 9 mil  Layers: 4
+Connections   :    70   predefined:  0 ( 0 Vias )
 
-Router memory :   402984
+Router memory :   941824
 
-Job has been interrupted!
+Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10Optimize11Optimize12
 
-Passname          : TopRouter
+Time per pass     :                            
+Number of Ripups  :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+max. Level        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+max. Total        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
 
-Time per pass     :  
-Number of Ripups  :         0
-max. Level        :         0
-max. Total        :         0
+Routed            :        62        62        61        61        61        61        61        61        61        61        61        61        61        61
+Vias              :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+Resolution        :    88.6 %    88.6 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %    87.1 %
 
-Routed            :         0
-Vias              :         0
-Resolution        :     0.0 %
-
-Final             : 0.0% finished
+Final             : 87.1% finished
