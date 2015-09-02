@@ -415,7 +415,7 @@ Sheet="1"
 
 [Win_2]
 Type="Control Panel"
-Loc="431 65 1151 601"
+Loc="439 95 1159 631"
 State=2
 Number=0
 
